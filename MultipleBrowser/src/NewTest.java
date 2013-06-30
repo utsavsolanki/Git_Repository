@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class NewTest
 {
-  
+  // Function work for open the Google page URL and open the page.
 	
   @Test
   public void Testmethod()
